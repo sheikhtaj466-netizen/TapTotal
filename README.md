@@ -1,39 +1,65 @@
 # 📱 TapTotal - Smart Kirana POS
 
-### 👨‍💻 Developed By
-**Sheikh Taj**
-*Independent App Developer*
+![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat&logo=android)
+![Tech](https://img.shields.io/badge/Built%20With-React%20Native-blue?style=flat&logo=react)
+![Mode](https://img.shields.io/badge/Mode-Offline%20First-orange?style=flat&logo=google-drive)
 
-**TapTotal** is a professional, offline-first inventory and billing app designed for Kirana stores and small businesses. It helps shopkeepers manage sales, track daily reports, and handle inventory without needing an internet connection.
-
-## ✨ Key Features
-
-- **⚡ Lightning Fast Billing:** One-tap item addition & quick amount entry.
-- **🌗 Dark & Light Theme:** Professional UI modes for day and night usage.
-- **📊 Smart Reports:** Track **Today's Sale** and **Monthly History** instantly.
-- **📂 Inventory Management:** Add, edit, and organize items with categories.
-- **💾 Data Backup:** Local Export/Import system (JSON) to keep data safe.
-- **🔒 Secure Mode:** Emergency screen lock to prevent accidental touches.
-- **📴 100% Offline:** Zero internet dependency. Privacy first.
-
-## 🛠 Tech Stack
-
-- **Framework:** React Native (Expo)
-- **Language:** JavaScript
-- **Storage:** Async Storage (Local)
-- **Icons:** Expo Vector Icons
-
-## 📸 Screenshots
-*(![1000023733](https://github.com/user-attachments/assets/7101a95f-2973-4d07-b8c0-fef6dce17c67)
-![1000023732](https://github.com/user-attachments/assets/78cf2c35-68fc-4a6a-98d6-b2840179a9ac)
-![1000023731](https://github.com/user-attachments/assets/76a2976a-86ef-4b91-ab2e-7c5ebde0ab45)
-![1000023730](https://github.com/user-attachments/assets/5628b749-ffa0-4bc3-a36c-4b9c559cc38d)
-![1000023734](https://github.com/user-attachments/assets/296d04ea-cf20-406f-810a-ca1971357d51)
-![1000023735](https://github.com/user-attachments/assets/3dffc2c9-8ea0-4e5f-8fd6-d2e99ba3539a)
-)*
+**TapTotal** is a professional, offline-first inventory and billing app designed specifically for **Kirana stores** and small businesses in India. It empowers shopkeepers to manage sales, track daily reports, and handle inventory efficiently without needing an internet connection.
 
 ---
 
-### 👨‍💻 Developed By
-**Sheikh Taj**
-*Independent App Developer*
+## 📥 Download App
+
+Click the button below to download the latest APK file directly to your phone:
+
+[![Download APK](https://drive.google.com/file/d/12QpA0XpUs2Z1QxKsiW2ibQomQKsuzRIf/view?usp=drivesdk)
+
+*(Note: Since this is a direct APK, you may need to allow "Install from Unknown Sources" in your settings.)*
+
+---
+
+## ✨ Key Features
+
+✅ **Lightning Fast Billing:** One-tap item addition & quick amount entry for busy shops.
+✅ **🌗 Dark & Light Theme:** Automatic or manual theme switching for day/night usage.
+✅ **📊 Smart Reports:** Track **Today's Sale** and view **Monthly History** instantly.
+✅ **📂 Inventory Management:** Add, edit, and organize items with categories (Grocery, Snacks, etc.).
+✅ **💾 Data Backup:** Secure local Export/Import system (JSON) to keep your data safe.
+✅ **🔒 Emergency Lock:** Secure screen lock mode to prevent accidental touches.
+✅ **📴 100% Offline:** Zero internet dependency. Your data stays on your phone.
+
+---
+
+## 📸 Screenshots
+
+| Dashboard (Dark) | Inventory | Light Mode |
+|:---:|:---:|:---:|
+| <img src="screenshots/home_dark.jpg" width="200"> | <img src="screenshots/inventory.jpg" width="200"> | <img src="screenshots/home_light.jpg" width="200"> |
+
+| Reports | Settings | Lock Mode |
+|:---:|:---:|:---:|
+| <img src="screenshots/reports.jpg" width="200"> | <img src="screenshots/settings.jpg" width="200"> | <img src="screenshots/lock.jpg" width="200"> |
+
+---
+
+## 🛠 Tech Stack
+
+* **Framework:** React Native (Expo)
+* **Language:** JavaScript
+* **Storage:** Async Storage (Local Persistence)
+* **Navigation:** React Navigation
+* **Icons:** Expo Vector Icons
+
+---
+
+## 📞 Support & Feedback
+
+Developed with ❤️ by **Sheikh Taj**.
+
+* 📧 **Email:** [sheikhtaj3010@gmail.com](mailto:sheikhtaj3010@gmail.com)
+* 📸 **Instagram:** [@sheikhtaj__](https://instagram.com/sheikhtaj__)
+
+---
+
+*© 2025 TapTotal. All rights reserved.*
+
