@@ -30,18 +30,6 @@ Click the button below to download the latest APK file directly to your phone:
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard (Dark) | Inventory | Light Mode |
-|:---:|:---:|:---:|
-| <img src="screenshots/home_dark.jpg" width="200"> | <img src="screenshots/inventory.jpg" width="200"> | <img src="screenshots/home_light.jpg" width="200"> |
-
-| Reports | Settings | Lock Mode |
-|:---:|:---:|:---:|
-| <img src="screenshots/reports.jpg" width="200"> | <img src="screenshots/settings.jpg" width="200"> | <img src="screenshots/lock.jpg" width="200"> |
-
----
-
 ## 🛠 Tech Stack
 
 * **Framework:** React Native (Expo)
