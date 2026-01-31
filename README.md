@@ -12,7 +12,7 @@
 
 Click the button below to download the latest APK file directly to your phone:
 
-[Download APK](https://drive.google.com/file/d/1dN6rG0IJzd_tQzuFVxCwQ2h1si7n9HS4/view?usp=drivesdk)
+[Download APK](https://drive.google.com/file/d/1NI0SkPoaH2Zccgg0FPpuXfS1gx1K6ouJ/view?usp=drivesdk)
 
 *(Note: Since this is a direct APK, you may need to allow "Install from Unknown Sources" in your settings.)*
 
