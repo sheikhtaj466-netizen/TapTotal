@@ -1,5 +1,9 @@
 # 📱 TapTotal - Smart Kirana POS
 
+### 👨‍💻 Developed By
+**Sheikh Taj**
+*Independent App Developer*
+
 **TapTotal** is a professional, offline-first inventory and billing app designed for Kirana stores and small businesses. It helps shopkeepers manage sales, track daily reports, and handle inventory without needing an internet connection.
 
 ## ✨ Key Features
